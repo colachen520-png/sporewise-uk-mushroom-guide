@@ -1,0 +1,10 @@
+{
+  "name": "Sporewise — UK mushroom guide",
+  "short_name": "Sporewise",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f1e8",
+  "theme_color": "#2e5b48",
+  "description": "A cautious UK-first visual mushroom guide.",
+  "icons": []
+}
