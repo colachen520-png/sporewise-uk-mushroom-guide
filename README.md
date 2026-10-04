@@ -2,6 +2,8 @@
 
 Phone-friendly UK mushroom guide prototype.
 
+Live app: https://colachen520-png.github.io/sporewise-uk-mushroom-guide/
+
 ## What is here
 
 - Eight high-value UK species, including edible candidates and dangerous lookalikes.
@@ -34,7 +36,7 @@ Phone-friendly UK mushroom guide prototype.
 python3 -m http.server 8765
 ```
 
-Open `http://127.0.0.1:8765/`. On a phone, serve it from a reachable HTTPS host to enable camera permissions and “Add to Home Screen”.
+Open the live HTTPS app above, or run locally with `http://127.0.0.1:8765/` for development. HTTPS enables the most reliable camera permissions and “Add to Home Screen” behaviour.
 
 ## Load it on your phone now
 
